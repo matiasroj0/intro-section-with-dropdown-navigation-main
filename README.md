@@ -4,7 +4,7 @@ This is a solution to the [Intro section with dropdown navigation challenge on F
 
 ### Links
 
-- Live Site URL: https://leafy-entremet-a1a95e.netlify.app/
+- Live Site URL: https://lively-daffodil-b407d1.netlify.app/
 
 ### Screenshot
 
